@@ -1,0 +1,371 @@
+"species","scientificName","priority_score","priority_level","total_records","n_grid_cells","rarity_score","range_score","trend_score"
+"Carpodacus rubicilloides",NA,100,"Critical Priority",2,2,100,100,100
+"Phalaropus lobatus",NA,100,"Critical Priority",2,2,100,100,100
+"Athene noctua","Athene noctua (Scopoli, 1769)",100,"Critical Priority",1,2,100,100,100
+"Athene noctua",NA,100,"Critical Priority",1,2,100,100,100
+"Bubo bengalensis",NA,100,"Critical Priority",1,1,100,100,100
+"Calidris acuminata",NA,100,"Critical Priority",1,1,100,100,100
+"Cyanoderma pyrrhops",NA,100,"Critical Priority",1,1,100,100,100
+"Geopelia cuneata",NA,100,"Critical Priority",1,1,100,100,100
+"Gymnoris xanthocollis",NA,100,"Critical Priority",1,1,100,100,100
+"Parus major","Parus major Linnaeus, 1758",100,"Critical Priority",1,1,100,100,100
+"Passer hispaniolensis",NA,100,"Critical Priority",1,1,100,100,100
+"Tetraogallus tibetanus","Tetraogallus tibetanus Gould, 1854",100,"Critical Priority",1,1,100,100,100
+"Vanellus vanellus",NA,100,"Critical Priority",1,1,100,100,100
+"Tetrax tetrax","Tetrax tetrax (Linnaeus, 1758)",82,"Critical Priority",5,2,100,100,40
+"Argya striata",NA,82,"Critical Priority",4,1,100,100,40
+"Ortygornis pondicerianus","Ortygornis pondicerianus (J.F.Gmelin, 1789)",82,"Critical Priority",4,2,100,100,40
+"Argya caudata",NA,82,"Critical Priority",3,1,100,100,40
+"Calidris minuta",NA,82,"Critical Priority",3,2,100,100,40
+"Delichon urbicum","Delichon urbicum (Linnaeus, 1758)",82,"Critical Priority",3,2,100,100,40
+"Luscinia phaenicuroides",NA,82,"Critical Priority",3,1,100,100,40
+"Pomatorhinus erythrogenys","Erythrogenys erythrogenys (Vigors, 1831)",82,"Critical Priority",3,1,100,100,40
+"Psittacula cyanocephala","Psittacula cyanocephala (Linnaeus, 1766)",82,"Critical Priority",3,2,100,100,40
+"Zapornia pusilla",NA,82,"Critical Priority",3,2,100,100,40
+"Acrocephalus agricola","Acrocephalus agricola (Jerdon, 1845)",82,"Critical Priority",2,2,100,100,40
+"Amaurornis phoenicurus","Amaurornis phoenicurus (Pennant, 1769)",82,"Critical Priority",2,2,100,100,40
+"Anarhynchus alexandrinus",NA,82,"Critical Priority",2,2,100,100,40
+"Anthropoides virgo","Anthropoides virgo (Linnaeus, 1758)",82,"Critical Priority",2,2,100,100,40
+"Anthus campestris","Anthus campestris (Linnaeus, 1758)",82,"Critical Priority",2,1,100,100,40
+"Anthus cervinus","Anthus cervinus (Pallas, 1811)",82,"Critical Priority",2,1,100,100,40
+"Anthus sylvanus","Anthus sylvanus (Hodgson, 1845)",82,"Critical Priority",2,2,100,100,40
+"Asio otus",NA,82,"Critical Priority",2,2,100,100,40
+"Buteo hemilasius",NA,82,"Critical Priority",2,2,100,100,40
+"Cacomantis passerinus","Cacomantis passerinus (Vahl, 1797)",82,"Critical Priority",2,2,100,100,40
+"Carpodacus puniceus","Carpodacus puniceus (Blyth, 1845)",82,"Critical Priority",2,1,100,100,40
+"Circus cyaneus",NA,82,"Critical Priority",2,2,100,100,40
+"Cuculus poliocephalus","Cuculus poliocephalus Latham, 1790",82,"Critical Priority",2,1,100,100,40
+"Cyanistes cyanus",NA,82,"Critical Priority",2,1,100,100,40
+"Cyornis rubeculoides","Cyornis rubeculoides (Vigors, 1831)",82,"Critical Priority",2,2,100,100,40
+"Dendrocopos leucopterus",NA,82,"Critical Priority",2,2,100,100,40
+"Dendrocopos macei","Dendrocopos macei (Vieillot, 1818)",82,"Critical Priority",2,2,100,100,40
+"Emberiza melanocephala","Emberiza melanocephala Scopoli, 1769",82,"Critical Priority",2,2,100,100,40
+"Emberiza pusilla","Emberiza pusilla Pallas, 1776",82,"Critical Priority",2,2,100,100,40
+"Ficedula parva","Ficedula parva (Bechstein, 1792)",82,"Critical Priority",2,2,100,100,40
+"Gracupica contra","Gracupica contra (Linnaeus, 1758)",82,"Critical Priority",2,1,100,100,40
+"Grus virgo",NA,82,"Critical Priority",2,1,100,100,40
+"Gyps fulvus","Gyps fulvus (Hablizl, 1783)",82,"Critical Priority",2,2,100,100,40
+"Hierococcyx varius",NA,82,"Critical Priority",2,2,100,100,40
+"Hirundapus caudacutus","Hirundapus caudacutus (Latham, 1801)",82,"Critical Priority",2,1,100,100,40
+"Hydrophasianus chirurgus",NA,82,"Critical Priority",2,2,100,100,40
+"Lanius tephronotus",NA,82,"Critical Priority",2,2,100,100,40
+"Loxia curvirostra","Loxia curvirostra Linnaeus, 1758",82,"Critical Priority",2,2,100,100,40
+"Merops philippinus","Merops philippinus Linnaeus, 1767",82,"Critical Priority",2,2,100,100,40
+"Monticola saxatilis","Monticola saxatilis (Linnaeus, 1766)",82,"Critical Priority",2,2,100,100,40
+"Oenanthe albonigra","Oenanthe albonigra (Hume, 1872)",82,"Critical Priority",2,2,100,100,40
+"Perdix hodgsoniae",NA,82,"Critical Priority",2,1,100,100,40
+"Pluvialis fulva",NA,82,"Critical Priority",2,1,100,100,40
+"Prinia inornata","Prinia inornata Sykes, 1832",82,"Critical Priority",2,2,100,100,40
+"Prinia socialis","Prinia socialis Sykes, 1832",82,"Critical Priority",2,2,100,100,40
+"Pteruthius aeralatus","Pteruthius aeralatus Blyth, 1855",82,"Critical Priority",2,2,100,100,40
+"Recurvirostra avosetta",NA,82,"Critical Priority",2,1,100,100,40
+"Riparia chinensis","Riparia chinensis (J.E.Gray, 1830)",82,"Critical Priority",2,2,100,100,40
+"Rostratula benghalensis",NA,82,"Critical Priority",2,1,100,100,40
+"Tringa erythropus",NA,82,"Critical Priority",2,1,100,100,40
+"Urocissa erythroryncha",NA,82,"Critical Priority",2,2,100,100,40
+"Xenus cinereus","Xenus cinereus (Güldenstädt, 1775)",82,"Critical Priority",2,2,100,100,40
+"Acrocephalus arundinaceus",NA,82,"Critical Priority",1,1,100,100,40
+"Aegypius monachus",NA,82,"Critical Priority",1,1,100,100,40
+"Amaurornis akool","Zapornia akool (Sykes, 1832)",82,"Critical Priority",1,1,100,100,40
+"Anarhynchus atrifrons",NA,82,"Critical Priority",1,1,100,100,40
+"Anser indicus","Anser indicus (Latham, 1790)",82,"Critical Priority",1,1,100,100,40
+"Anthus hodgsoni",NA,82,"Critical Priority",1,1,100,100,40
+"Apus leuconyx","Apus leuconyx (Blyth, 1845)",82,"Critical Priority",1,1,100,100,40
+"Astur gentilis",NA,82,"Critical Priority",1,1,100,100,40
+"Aythya nyroca","Aythya nyroca (Güldenstädt, 1770)",82,"Critical Priority",1,2,100,100,40
+"Aythya nyroca",NA,82,"Critical Priority",1,2,100,100,40
+"Calandrella acutirostris",NA,82,"Critical Priority",1,1,100,100,40
+"Calandrella brachydactyla","Calandrella brachydactyla (Leisler, 1814)",82,"Critical Priority",1,1,100,100,40
+"Calidris ferruginea",NA,82,"Critical Priority",1,1,100,100,40
+"Calidris minuta","Calidris minuta (Leisler, 1812)",82,"Critical Priority",1,2,100,100,40
+"Calidris pugnax",NA,82,"Critical Priority",1,1,100,100,40
+"Carpodacus thura","Carpodacus thura Bonaparte & Schlegel, 1850",82,"Critical Priority",1,1,100,100,40
+"Cecropis rufula",NA,82,"Critical Priority",1,1,100,100,40
+"Centropus sinensis","Centropus sinensis (Stephens, 1815)",82,"Critical Priority",1,1,100,100,40
+"Cettia brunnifrons","Cettia brunnifrons (Hodgson, 1845)",82,"Critical Priority",1,1,100,100,40
+"Cettia cetti","Cettia cetti (Temminck, 1820)",82,"Critical Priority",1,1,100,100,40
+"Chelidorhynx hypoxantha","Chelidorhynx hypoxantha (Blyth, 1843)",82,"Critical Priority",1,1,100,100,40
+"Chloris chloris","Chloris chloris (Linnaeus, 1758)",82,"Critical Priority",1,1,100,100,40
+"Ciconia nigra",NA,82,"Critical Priority",1,1,100,100,40
+"Circus cyaneus","Circus cyaneus (Linnaeus, 1766)",82,"Critical Priority",1,2,100,100,40
+"Copsychus fulicatus",NA,82,"Critical Priority",1,1,100,100,40
+"Coturnix coturnix","Coturnix coturnix (Linnaeus, 1758)",82,"Critical Priority",1,2,100,100,40
+"Coturnix coturnix",NA,82,"Critical Priority",1,2,100,100,40
+"Cygnus columbianus","Cygnus columbianus (Ord, 1815)",82,"Critical Priority",1,2,100,100,40
+"Cygnus columbianus",NA,82,"Critical Priority",1,2,100,100,40
+"Dendrocopos macei",NA,82,"Critical Priority",1,2,100,100,40
+"Emberiza hortulana","Emberiza hortulana Linnaeus, 1758",82,"Critical Priority",1,1,100,100,40
+"Emberiza melanocephala",NA,82,"Critical Priority",1,2,100,100,40
+"Emberiza striolata","Emberiza striolata (M.H.K.Lichtenstein, 1823)",82,"Critical Priority",1,1,100,100,40
+"Erithacus rubecula","Erithacus rubecula (Linnaeus, 1758)",82,"Critical Priority",1,1,100,100,40
+"Euodice malabarica","Euodice malabarica (Linnaeus, 1758)",82,"Critical Priority",1,1,100,100,40
+"Falco cherrug",NA,82,"Critical Priority",1,1,100,100,40
+"Falco chicquera","Falco chicquera Daudin, 1800",82,"Critical Priority",1,1,100,100,40
+"Ficedula albicilla",NA,82,"Critical Priority",1,1,100,100,40
+"Ficedula parva",NA,82,"Critical Priority",1,2,100,100,40
+"Galerida cristata","Galerida cristata (Linnaeus, 1758)",82,"Critical Priority",1,2,100,100,40
+"Galerida cristata",NA,82,"Critical Priority",1,2,100,100,40
+"Gallinago solitaria","Gallinago solitaria Hodgson, 1831",82,"Critical Priority",1,2,100,100,40
+"Gallinago solitaria",NA,82,"Critical Priority",1,2,100,100,40
+"Gallus gallus",NA,82,"Critical Priority",1,1,100,100,40
+"Garrulax albogularis","Pterorhinus albogularis (Gould, 1836)",82,"Critical Priority",1,1,100,100,40
+"Gracupica contra",NA,82,"Critical Priority",1,1,100,100,40
+"Grus monacha","Grus monacha Temminck, 1835",82,"Critical Priority",1,1,100,100,40
+"Grus nigricollis",NA,82,"Critical Priority",1,1,100,100,40
+"Haliaeetus albicilla",NA,82,"Critical Priority",1,1,100,100,40
+"Iduna caligata","Iduna caligata (Lichtenstein, 1823)",82,"Critical Priority",1,1,100,100,40
+"Iduna rama","Iduna rama (Sykes, 1832)",82,"Critical Priority",1,1,100,100,40
+"Lanius collurio","Lanius collurio Linnaeus, 1758",82,"Critical Priority",1,1,100,100,40
+"Lanius cristatus",NA,82,"Critical Priority",1,1,100,100,40
+"Lanius isabellinus",NA,82,"Critical Priority",1,1,100,100,40
+"Lanius minor","Lanius minor Gmelin, 1788",82,"Critical Priority",1,1,100,100,40
+"Lanius phoenicuroides",NA,82,"Critical Priority",1,1,100,100,40
+"Lerwa lerwa","Lerwa lerwa (Hodgson, 1833)",82,"Critical Priority",1,1,100,100,40
+"Lerwa lerwa",NA,82,"Critical Priority",1,1,100,100,40
+"Limosa limosa",NA,82,"Critical Priority",1,1,100,100,40
+"Merops orientalis","Merops orientalis Latham, 1801",82,"Critical Priority",1,1,100,100,40
+"Microcarbo niger","Microcarbo niger (Vieillot, 1817)",82,"Critical Priority",1,2,100,100,40
+"Microcarbo niger",NA,82,"Critical Priority",1,2,100,100,40
+"Monticola saxatilis",NA,82,"Critical Priority",1,2,100,100,40
+"Muscicapa striata","Muscicapa striata (Pallas, 1764)",82,"Critical Priority",1,1,100,100,40
+"Mycerobas affinis",NA,82,"Critical Priority",1,1,100,100,40
+"Mycerobas carnipes","Mycerobas carnipes (Hodgson, 1836)",82,"Critical Priority",1,1,100,100,40
+"Oenanthe pleschanka","Oenanthe pleschanka (Lepechin, 1770)",82,"Critical Priority",1,1,100,100,40
+"Otus bakkamoena","Otus bakkamoena Pennant, 1769",82,"Critical Priority",1,1,100,100,40
+"Otus scops","Otus scops (Linnaeus, 1758)",82,"Critical Priority",1,1,100,100,40
+"Pastor roseus","Pastor roseus (Linnaeus, 1758)",82,"Critical Priority",1,2,100,100,40
+"Pastor roseus",NA,82,"Critical Priority",1,2,100,100,40
+"Pericrocotus cinnamomeus","Pericrocotus cinnamomeus (Linnaeus, 1766)",82,"Critical Priority",1,1,100,100,40
+"Phoenicurus phoenicurus",NA,82,"Critical Priority",1,1,100,100,40
+"Phylloscopus whistleri",NA,82,"Critical Priority",1,1,100,100,40
+"Picus chlorolophus","Picus chlorolophus Vieillot, 1818",82,"Critical Priority",1,1,100,100,40
+"Picus xanthopygaeus",NA,82,"Critical Priority",1,1,100,100,40
+"Rhipidura aureola","Rhipidura aureola Lesson, 1831",82,"Critical Priority",1,1,100,100,40
+"Rhodopechys sanguineus","Rhodopechys sanguineus sanguineus (Gould, 1838)",82,"Critical Priority",1,1,100,100,40
+"Rhodopechys sanguineus",NA,82,"Critical Priority",1,1,100,100,40
+"Spatula querquedula","Spatula querquedula (Linnaeus, 1758)",82,"Critical Priority",1,2,100,100,40
+"Spatula querquedula",NA,82,"Critical Priority",1,2,100,100,40
+"Stachyridopsis pyrrhops","Cyanoderma pyrrhops (Blyth, 1844)",82,"Critical Priority",1,1,100,100,40
+"Sterna aurantia","Sterna aurantia J.E.Gray, 1831",82,"Critical Priority",1,2,100,100,40
+"Sterna aurantia",NA,82,"Critical Priority",1,2,100,100,40
+"Strix leptogrammica",NA,82,"Critical Priority",1,1,100,100,40
+"Taccocua leschenaultii","Taccocua leschenaultii Lesson, 1830",82,"Critical Priority",1,1,100,100,40
+"Tadorna tadorna",NA,82,"Critical Priority",1,1,100,100,40
+"Taenioptynx brodiei",NA,82,"Critical Priority",1,1,100,100,40
+"Tephrodornis pondicerianus","Tephrodornis pondicerianus (Gmelin, 1789)",82,"Critical Priority",1,1,100,100,40
+"Tragopan melanocephalus",NA,82,"Critical Priority",1,6,100,60,80
+"Tringa nebularia","Tringa nebularia (Gunnerus, 1767)",82,"Critical Priority",1,1,100,100,40
+"Trochalopteron erythrocephalum","Trochalopteron erythrocephalum (Vigors, 1832)",82,"Critical Priority",1,1,100,100,40
+"Turdus philomelos",NA,82,"Critical Priority",1,1,100,100,40
+"Turdus ruficollis","Turdus ruficollis Pallas, 1776",82,"Critical Priority",1,1,100,100,40
+"Xenus cinereus",NA,82,"Critical Priority",1,2,100,100,40
+"Yungipicus canicapillus","Yungipicus canicapillus (Blyth, 1845)",82,"Critical Priority",1,1,100,100,40
+NA,NA,82,"Critical Priority",1,1,100,100,40
+"Botaurus minutus",NA,76,"High Priority",5,3,100,80,40
+"Dendrocitta formosae","Dendrocitta formosae Swinhoe, 1863",76,"High Priority",5,3,100,80,40
+"Himantopus himantopus",NA,76,"High Priority",5,4,100,80,40
+"Mareca strepera",NA,76,"High Priority",5,5,100,80,40
+"Tachyspiza badia",NA,76,"High Priority",5,4,100,80,40
+"Anser cygnoides",NA,76,"High Priority",4,3,100,80,40
+"Bucanetes mongolicus",NA,76,"High Priority",4,5,100,80,40
+"Buteo buteo","Buteo buteo (Linnaeus, 1758)",76,"High Priority",4,4,100,80,40
+"Cuculus varius","Hierococcyx varius (Vahl, 1797)",76,"High Priority",4,4,100,80,40
+"Ficedula ruficauda",NA,76,"High Priority",4,4,100,80,40
+"Ichthyaetus ichthyaetus","Ichthyaetus ichthyaetus (Pallas, 1773)",76,"High Priority",4,4,100,80,40
+"Jynx torquilla","Jynx torquilla Linnaeus, 1758",76,"High Priority",4,4,100,80,40
+"Mareca strepera","Mareca strepera (Linnaeus, 1758)",76,"High Priority",4,5,100,80,40
+"Motacilla flava","Motacilla flava Linnaeus, 1758",76,"High Priority",4,4,100,80,40
+"Phalacrocorax carbo",NA,76,"High Priority",4,5,100,80,40
+"Picus canus","Picus canus J.F.Gmelin, 1788",76,"High Priority",4,3,100,80,40
+"Pycnonotus leucotis","Pycnonotus leucotis (Gould, 1836)",76,"High Priority",4,3,100,80,40
+"Thinornis dubius",NA,76,"High Priority",4,3,100,80,40
+"Aegithalos niveogularis",NA,76,"High Priority",3,2,100,100,20
+"Anser anser",NA,76,"High Priority",3,3,100,80,40
+"Aquila heliaca",NA,76,"High Priority",3,4,100,80,40
+"Ardea coromanda",NA,76,"High Priority",3,3,100,80,40
+"Athene brama","Athene brama (Temminck, 1821)",76,"High Priority",3,3,100,80,40
+"Bubo bubo","Bubo bubo (Linnaeus, 1758)",76,"High Priority",3,3,100,80,40
+"Butastur teesa",NA,76,"High Priority",3,3,100,80,40
+"Circus aeruginosus","Circus aeruginosus (Linnaeus, 1758)",76,"High Priority",3,5,100,80,40
+"Clamator jacobinus","Clamator jacobinus (Boddaert, 1783)",76,"High Priority",3,4,100,80,40
+"Coracias benghalensis","Coracias benghalensis (Linnaeus, 1758)",76,"High Priority",3,3,100,80,40
+"Corvus corone",NA,76,"High Priority",3,3,100,80,40
+"Emberiza lathami",NA,76,"High Priority",3,4,100,80,40
+"Ficedula subrubra",NA,76,"High Priority",3,3,100,80,40
+"Mergus merganser","Mergus merganser Linnaeus, 1758",76,"High Priority",3,3,100,80,40
+"Montifringilla adamsi",NA,76,"High Priority",3,3,100,80,40
+"Netta rufina","Netta rufina (Pallas, 1773)",76,"High Priority",3,5,100,80,40
+"Oenanthe isabellina",NA,76,"High Priority",3,3,100,80,40
+"Oenanthe oenanthe","Oenanthe oenanthe (Linnaeus, 1758)",76,"High Priority",3,5,100,80,40
+"Otus lettia",NA,76,"High Priority",3,3,100,80,40
+"Otus spilocephalus","Otus spilocephalus (Blyth, 1846)",76,"High Priority",3,3,100,80,40
+"Petronia petronia","Petronia petronia (Linnaeus, 1766)",76,"High Priority",3,4,100,80,40
+"Phalacrocorax carbo","Phalacrocorax carbo (Linnaeus, 1758)",76,"High Priority",3,5,100,80,40
+"Porzana pusilla","Zapornia pusilla (Pallas, 1776)",76,"High Priority",3,3,100,80,40
+"Prinia hodgsonii","Prinia hodgsonii Blyth, 1844",76,"High Priority",3,3,100,80,40
+"Prunella rubeculoides","Prunella rubeculoides (Moore, 1854)",76,"High Priority",3,8,100,60,60
+"Scolopax rusticola","Scolopax rusticola Linnaeus, 1758",76,"High Priority",3,3,100,80,40
+"Butastur teesa","Butastur teesa (Franklin, 1831)",76,"High Priority",2,3,100,80,40
+"Calidris temminckii","Calidris temminckii (Leisler, 1812)",76,"High Priority",2,3,100,80,40
+"Calidris temminckii",NA,76,"High Priority",2,3,100,80,40
+"Cecropis daurica","Cecropis daurica (Laxmann, 1769)",76,"High Priority",2,4,100,80,40
+"Cecropis daurica",NA,76,"High Priority",2,4,100,80,40
+"Chroicocephalus brunnicephalus","Chroicocephalus brunnicephalus (Jerdon, 1840)",76,"High Priority",2,4,100,80,40
+"Chroicocephalus brunnicephalus",NA,76,"High Priority",2,4,100,80,40
+"Chroicocephalus ridibundus","Chroicocephalus ridibundus (Linnaeus, 1766)",76,"High Priority",2,4,100,80,40
+"Chroicocephalus ridibundus",NA,76,"High Priority",2,4,100,80,40
+"Circus aeruginosus",NA,76,"High Priority",2,5,100,80,40
+"Columba palumbus","Columba palumbus Linnaeus, 1758",76,"High Priority",2,3,100,80,40
+"Emberiza buchanani","Emberiza buchanani Blyth, 1845",76,"High Priority",2,3,100,80,40
+"Emberiza buchanani",NA,76,"High Priority",2,3,100,80,40
+"Linaria flavirostris","Linaria flavirostris (Linnaeus, 1758)",76,"High Priority",2,3,100,80,40
+"Merops apiaster","Merops apiaster Linnaeus, 1758",76,"High Priority",2,3,100,80,40
+"Merops apiaster",NA,76,"High Priority",2,3,100,80,40
+"Monticola rufiventris","Monticola rufiventris (Jardine & Selby, 1833)",76,"High Priority",2,3,100,80,40
+"Netta rufina",NA,76,"High Priority",2,5,100,80,40
+"Oenanthe oenanthe",NA,76,"High Priority",2,5,100,80,40
+"Petronia petronia",NA,76,"High Priority",2,4,100,80,40
+"Pseudopodoces humilis","Pseudopodoces humilis (Hume, 1871)",76,"High Priority",2,3,100,80,40
+"Spinus spinus","Spinus spinus (Linnaeus, 1758)",76,"High Priority",2,3,100,80,40
+"Tadorna ferruginea","Tadorna ferruginea (Pallas, 1764)",76,"High Priority",2,4,100,80,40
+"Tadorna ferruginea",NA,76,"High Priority",2,4,100,80,40
+"Tarsiger chrysaeus",NA,76,"High Priority",2,1,100,100,20
+"Tringa glareola","Tringa glareola Linnaeus, 1758",76,"High Priority",2,3,100,80,40
+"Tringa totanus","Tringa totanus (Linnaeus, 1758)",76,"High Priority",2,3,100,80,40
+"Turdus maximus","Turdus maximus (Seebohm, 1881)",76,"High Priority",2,3,100,80,40
+"Acrocephalus stentoreus","Acrocephalus stentoreus (Hemprich & Ehrenberg, 1833)",76,"High Priority",1,5,100,80,40
+"Anser anser","Anser anser (Linnaeus, 1758)",76,"High Priority",1,3,100,80,40
+"Aquila heliaca","Aquila heliaca Savigny, 1809",76,"High Priority",1,4,100,80,40
+"Bubo bubo",NA,76,"High Priority",1,3,100,80,40
+"Bucanetes mongolicus","Bucanetes mongolicus (Swinhoe, 1870)",76,"High Priority",1,5,100,80,40
+"Clamator jacobinus",NA,76,"High Priority",1,4,100,80,40
+"Columba palumbus",NA,76,"High Priority",1,3,100,80,40
+"Ichthyaetus ichthyaetus",NA,76,"High Priority",1,4,100,80,40
+"Linaria flavirostris",NA,76,"High Priority",1,3,100,80,40
+"Mergus merganser",NA,76,"High Priority",1,3,100,80,40
+"Monticola rufiventris",NA,76,"High Priority",1,3,100,80,40
+"Montifringilla adamsi","Montifringilla adamsi Adams, 1859",76,"High Priority",1,3,100,80,40
+"Motacilla flava",NA,76,"High Priority",1,4,100,80,40
+"Oenanthe isabellina","Oenanthe isabellina (Temminck, 1829)",76,"High Priority",1,3,100,80,40
+"Otus lettia","Otus lettia (Hodgson, 1836)",76,"High Priority",1,3,100,80,40
+"Prinia hodgsonii",NA,76,"High Priority",1,3,100,80,40
+"Pseudopodoces humilis",NA,76,"High Priority",1,3,100,80,40
+"Scolopax rusticola",NA,76,"High Priority",1,3,100,80,40
+"Spinus spinus",NA,76,"High Priority",1,3,100,80,40
+"Tringa glareola",NA,76,"High Priority",1,3,100,80,40
+"Tringa totanus",NA,76,"High Priority",1,3,100,80,40
+"Turdus maximus",NA,76,"High Priority",1,3,100,80,40
+"Alauda arvensis","Alauda arvensis Linnaeus, 1758",70,"High Priority",5,5,100,80,20
+"Heterophasia capistrata","Heterophasia capistrata (Vigors, 1831)",70,"High Priority",5,3,100,80,20
+"Alauda gulgula","Alauda gulgula Franklin, 1831",70,"High Priority",4,5,100,80,20
+"Fringilla coelebs","Fringilla coelebs Linnaeus, 1758",70,"High Priority",4,5,100,80,20
+"Gallinago gallinago",NA,70,"High Priority",4,4,100,80,20
+"Lanius excubitor",NA,70,"High Priority",4,3,100,80,20
+"Locustella major",NA,70,"High Priority",4,4,100,80,20
+"Megaceryle lugubris","Megaceryle lugubris (Temminck, 1834)",70,"High Priority",4,5,100,80,20
+"Turdus viscivorus","Turdus viscivorus Linnaeus, 1758",70,"High Priority",4,7,100,60,40
+"Alauda arvensis",NA,70,"High Priority",3,5,100,80,20
+"Alauda gulgula",NA,70,"High Priority",3,5,100,80,20
+"Aythya ferina",NA,70,"High Priority",3,7,100,60,40
+"Aythya fuligula",NA,70,"High Priority",3,6,100,60,40
+"Emberiza fucata",NA,70,"High Priority",3,5,100,80,20
+"Ficedula tricolor",NA,70,"High Priority",3,5,100,80,20
+"Gallinago gallinago","Gallinago gallinago (Linnaeus, 1758)",70,"High Priority",3,4,100,80,20
+"Oenanthe deserti","Oenanthe deserti (Temminck, 1825)",70,"High Priority",3,5,100,80,20
+"Oenanthe deserti",NA,70,"High Priority",3,5,100,80,20
+"Prunella himalayana","Prunella himalayana (Blyth, 1842)",70,"High Priority",3,6,100,60,40
+"Prunella himalayana",NA,70,"High Priority",3,6,100,60,40
+"Strix aluco","Strix aluco Linnaeus, 1758",70,"High Priority",3,5,100,80,20
+"Strix aluco",NA,70,"High Priority",3,5,100,80,20
+"Turdus viscivorus",NA,70,"High Priority",3,7,100,60,40
+"Cephalopyrus flammiceps",NA,70,"High Priority",2,4,100,80,20
+"Fringilla coelebs",NA,70,"High Priority",2,5,100,80,20
+"Lanius excubitor","Lanius excubitor Linnaeus, 1758",70,"High Priority",2,3,100,80,20
+"Locustella major","Locustella major (W.E.Brooks, 1871)",70,"High Priority",2,4,100,80,20
+"Lophura leucomelanos",NA,70,"High Priority",2,5,100,80,20
+"Megaceryle lugubris",NA,70,"High Priority",2,5,100,80,20
+"Picumnus innominatus",NA,70,"High Priority",2,5,100,80,20
+"Psittacula eupatria","Psittacula eupatria (Linnaeus, 1766)",70,"High Priority",2,3,100,80,20
+"Emberiza citrinella","Emberiza citrinella Linnaeus, 1758",70,"High Priority",1,4,100,80,20
+"Heterophasia capistrata",NA,70,"High Priority",1,3,100,80,20
+"Lophura leucomelanos","Lophura leucomelanos hamiltonii (J.E.Gray, 1829)",70,"High Priority",1,5,100,80,20
+"Pteruthius xanthochlorus",NA,70,"High Priority",1,5,100,80,20
+"Rallus aquaticus","Rallus aquaticus Linnaeus, 1758",70,"High Priority",1,4,100,80,20
+"Glaucidium brodiei","Taenioptynx brodiei (Burton, 1836)",68,"High Priority",10,2,80,100,20
+"Tarsiger chrysaeus","Tarsiger chrysaeus Hodgson, 1845",68,"High Priority",8,1,80,100,20
+"Acrocephalus stentoreus",NA,68,"High Priority",6,5,80,80,40
+"Aegithalos leucogenys","Aegithalos leucogenys (Moore, 1854)",68,"High Priority",6,3,80,80,40
+"Calliope pectoralis",NA,68,"High Priority",6,5,80,80,40
+"Emberiza lathami","Emberiza lathami J.E.Gray, 1831",68,"High Priority",6,4,80,80,40
+"Haliastur indus","Haliastur indus (Boddaert, 1783)",68,"High Priority",6,1,80,100,20
+"Mareca penelope","Mareca penelope (Linnaeus, 1758)",68,"High Priority",6,4,80,80,40
+"Carpodacus grandis","Carpodacus grandis Blyth, 1849",64,"High Priority",5,8,100,60,20
+"Cinclus cinclus",NA,64,"High Priority",5,9,100,60,20
+"Leucosticte brandti",NA,64,"High Priority",5,7,100,60,20
+"Phylloscopus affinis",NA,64,"High Priority",5,8,100,60,20
+"Prunella atrogularis",NA,64,"High Priority",5,8,100,60,20
+"Anas crecca",NA,64,"High Priority",4,8,100,60,20
+"Buteo refectus","Buteo refectus Portenko, 1935",64,"High Priority",4,7,100,60,20
+"Catreus wallichii",NA,64,"High Priority",4,6,100,60,20
+"Columba leuconota",NA,64,"High Priority",4,9,100,60,20
+"Leptopoecile sophiae",NA,64,"High Priority",4,6,100,60,20
+"Lophophorus impejanus",NA,64,"High Priority",4,9,100,60,20
+"Niltava sundara",NA,64,"High Priority",4,6,100,60,20
+"Pernis ptilorhynchus",NA,64,"High Priority",4,9,100,60,20
+"Phoenicurus erythronotus",NA,64,"High Priority",4,9,100,60,20
+"Phoenicurus frontalis",NA,64,"High Priority",4,8,100,60,20
+"Regulus regulus",NA,64,"High Priority",4,10,100,60,20
+"Tetraogallus himalayensis",NA,64,"High Priority",4,9,100,60,20
+"Ceryle rudis","Ceryle rudis (Linnaeus, 1758)",64,"High Priority",3,6,100,60,20
+"Coracias garrulus",NA,64,"High Priority",3,10,100,60,20
+"Culicicapa ceylonensis",NA,64,"High Priority",3,8,100,60,20
+"Emberiza leucocephalos","Emberiza leucocephalos S.G.Gmelin, 1771",64,"High Priority",3,7,100,60,20
+"Francolinus francolinus",NA,64,"High Priority",3,7,100,60,20
+"Fringilla montifringilla","Fringilla montifringilla Linnaeus, 1758",64,"High Priority",3,8,100,60,20
+"Glaucidium cuculoides",NA,64,"High Priority",3,7,100,60,20
+"Ibidorhyncha struthersii","Ibidorhyncha struthersii Vigors, 1832",64,"High Priority",3,7,100,60,20
+"Orthotomus sutorius",NA,64,"High Priority",3,6,100,60,20
+"Petrochelidon fluvicola",NA,64,"High Priority",3,6,100,60,20
+"Prunella collaris",NA,64,"High Priority",3,8,100,60,20
+"Vanellus indicus",NA,64,"High Priority",3,9,100,60,20
+"Aquila nipalensis",NA,64,"High Priority",2,7,100,60,20
+"Catreus wallichii","Catreus wallichii (Hardwicke, 1827)",64,"High Priority",2,6,100,60,20
+"Certhia hodgsoni",NA,64,"High Priority",2,6,100,60,20
+"Garrulus lanceolatus",NA,64,"High Priority",2,10,100,60,20
+"Lanius vittatus",NA,64,"High Priority",2,7,100,60,20
+"Motacilla maderaspatensis",NA,64,"High Priority",2,7,100,60,20
+"Phylloscopus tytleri",NA,64,"High Priority",2,6,100,60,20
+"Psilopogon asiaticus",NA,64,"High Priority",2,8,100,60,20
+"Ptyonoprogne rupestris",NA,64,"High Priority",2,7,100,60,20
+"Tachybaptus ruficollis","Tachybaptus ruficollis (Pallas, 1764)",64,"High Priority",2,8,100,60,20
+"Tachymarptis melba",NA,64,"High Priority",2,10,100,60,20
+"Tyto javanica","Tyto javanica (J.F.Gmelin, 1788)",64,"High Priority",2,6,100,60,20
+"Anas acuta",NA,64,"High Priority",1,7,100,60,20
+"Falco peregrinus","Falco peregrinus babylonicus P.L.Sclater, 1861",64,"High Priority",1,10,100,60,20
+"Falco peregrinus","Falco peregrinus peregrinator Sundevall, 1837",64,"High Priority",1,10,100,60,20
+"Phylloscopus subviridis",NA,64,"High Priority",1,9,100,60,20
+"Rhipidura albicollis",NA,64,"High Priority",1,6,100,60,20
+"Chlidonias hybrida",NA,62,"High Priority",10,4,80,80,20
+"Corvus frugilegus","Corvus frugilegus Linnaeus, 1758",62,"High Priority",10,5,80,80,20
+"Picumnus innominatus","Picumnus innominatus Burton, 1836",62,"High Priority",10,5,80,80,20
+"Seicercus whistleri","Phylloscopus whistleri (Ticehurst, 1925)",62,"High Priority",10,4,80,80,20
+"Sitta cinnamoventris","Sitta cinnamoventris Blyth, 1842",62,"High Priority",10,5,80,80,20
+"Leiothrix lutea","Leiothrix lutea (Scopoli, 1786)",62,"High Priority",9,5,80,80,20
+"Oenanthe picata","Oenanthe picata (Blyth, 1847)",62,"High Priority",8,6,80,60,40
+"Psittacula eupatria",NA,62,"High Priority",8,3,80,80,20
+"Rallus aquaticus",NA,62,"High Priority",8,4,80,80,20
+"Cuculus saturatus","Cuculus saturatus Blyth, 1843",62,"High Priority",7,4,80,80,20
+"Curruca curruca",NA,62,"High Priority",7,7,80,60,40
+"Elanus caeruleus","Elanus caeruleus (Desfontaines, 1789)",62,"High Priority",7,5,80,80,20
+"Emberiza citrinella",NA,62,"High Priority",7,4,80,80,20
+"Emberiza fucata","Emberiza fucata Pallas, 1776",62,"High Priority",7,5,80,80,20
+"Garrulus glandarius","Garrulus glandarius (Linnaeus, 1758)",62,"High Priority",7,4,80,80,20
+"Monticola cinclorhyncha",NA,62,"High Priority",7,5,80,80,20
+"Acrocephalus dumetorum","Acrocephalus dumetorum Blyth, 1849",62,"High Priority",6,5,80,80,20
+"Aythya ferina","Aythya ferina (Linnaeus, 1758)",62,"High Priority",6,7,80,60,40
+"Aythya fuligula","Aythya fuligula (Linnaeus, 1758)",62,"High Priority",6,6,80,60,40
+"Cephalopyrus flammiceps","Cephalopyrus flammiceps (Burton, 1836)",62,"High Priority",6,4,80,80,20
+"Zapornia fusca",NA,62,"High Priority",6,3,80,80,20
+"Turdoides striata","Argya striata (Dumont, 1823)",60,"High Priority",20,2,60,100,20
+"Aegithalos niveogularis","Aegithalos niveogularis (Gould, 1855)",60,"High Priority",18,2,60,100,20
+"Prunella rubeculoides",NA,60,"High Priority",14,8,60,60,60
