@@ -2,7 +2,7 @@
 # SCRIPT 03: EXPLORATORY DATA ANALYSIS
 # Project: Conservation Priority Assessment of Birds in Gilgit-Baltistan
 # Author: Syed Inzimam Ali Shah
-# Date: December 2025
+# Date: Nov-Dec 2025
 # Purpose: Explore and visualize cleaned bird occurrence data
 ################################################################################
 
@@ -26,7 +26,7 @@ cat("Libraries loaded successfully!\n\n")
 # 2. SET WORKING DIRECTORY AND CREATE OUTPUT FOLDERS
 # ============================================================================
 
-setwd("C:/gb-birds-conservation")
+setwd("C:/gb_birds_conservation")
 
 # Create output folders
 dir.create("outputs", showWarnings = FALSE)
