@@ -2,7 +2,7 @@
 # SCRIPT 04: CONSERVATION PRIORITY ASSESSMENT
 # Project: Conservation Priority Assessment of Birds in Gilgit-Baltistan
 # Author: Syed Inzimam Ali Shah
-# Date: December 2025
+# Date: Nov-Dec 2025
 # Purpose: Identify priority species and areas for conservation using local criteria
 ################################################################################
 
@@ -23,7 +23,7 @@ cat("Libraries loaded successfully!\n\n")
 # 2. SET WORKING DIRECTORY
 # ============================================================================
 
-setwd("C:/gb-birds-conservation")
+setwd("C:/gb_birds_conservation")
 
 cat("Working directory set!\n\n")
 
